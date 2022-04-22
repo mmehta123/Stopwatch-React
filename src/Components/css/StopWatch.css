@@ -1,0 +1,7 @@
+.stop-watch {
+    border: 3px solid black;
+    height: 50vh;
+    width: 50vw;
+    background-color: rgb(130, 75, 60);
+    border-radius: 10px;
+}
